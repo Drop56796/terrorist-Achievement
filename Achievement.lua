@@ -3,7 +3,7 @@ local achievementGiver = loadstring(game:HttpGet("https://raw.githubusercontent.
 
 ---====== Display achievement ======---
 achievementGiver({
-    Title = "Traumatic Beauty buffet Crowd",
+    Title = "Nightmare Smile of Death",
     Desc = "Hey Bro Look at me ",
     Reason = "Survive the terrorist",
     Image = "rbxassetid://17357468089"
